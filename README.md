@@ -6,7 +6,7 @@ The word data is self generated .txt file which is present in utils folder of th
 
 ![alt text][logo]
 
-[logo]: https://github.com/rajeshborate/Angular-Counter-Application/blob/master/Output/counter.PNG "Logo Title Text 2"
+[logo]: https://github.com/rajeshborate/Angular-word-generator/blob/master/Output/wordgenerator.PNG "Logo Title Text 2"
 
 # WordGenerator
 
