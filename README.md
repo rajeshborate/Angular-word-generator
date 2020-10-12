@@ -1,3 +1,13 @@
+# Word Generator Application
+This is a simple application used to generate random words taking the input from user from the slide.
+The word data is self generated .txt file which is present in utils folder of the project. 
+
+# The Word Generator application looks like the below image.
+
+![alt text][logo]
+
+[logo]: https://github.com/rajeshborate/Angular-Counter-Application/blob/master/Output/counter.PNG "Logo Title Text 2"
+
 # WordGenerator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
